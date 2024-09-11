@@ -17,3 +17,4 @@ for (const note of bankNotes) {
   value =value - note*noteNumber
   console.log( noteNumber);
 }
+
